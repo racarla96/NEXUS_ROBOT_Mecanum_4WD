@@ -1,4 +1,4 @@
-# NEXUS_ROBOT_Mecanum_4WD
+# Nexus Robot Mecanum 4WD
 
 Enlaces de referencia
 - https://www.robotshop.com/es/products/4wd-arduino-compatible-mecanum-robot
